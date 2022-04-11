@@ -13,4 +13,5 @@ This progress of creating my blog, is based on the [guid](http://jmcglone.com/gu
 未来计划：
 
 -[ ] html基础
+
 -[ ] jekyll继续学习
