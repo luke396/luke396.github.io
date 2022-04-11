@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Luke blog Testing!"
+title: "Luke's blog Testing!"
 date: 2014-04-30
 ---
 
