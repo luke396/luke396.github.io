@@ -1,0 +1,23 @@
+I"�<p>Well. Finally got around to putting this old website together. Neat thing about it - powered by <a href="http://jekyllrb.com">Jekyll</a> and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.</p>
+
+<p>This progress of creating my blog, is based on the <a href="http://jmcglone.com/guides/github-pages/">guide</a>.</p>
+
+<p>其实说起来也是神奇，我被一个B站up主的视频吸引，在fork他的仓库并试图一分钟创建属于自己的blog的时候出现了一些问题，我就决定自己按照他所参考的框架和网站进行学习从零开始搭建自己的框架。从Jekyll网站的guide开始，我一个根本没有接触过前端的纯业余程序员，仅存的一点前端知识是写爬虫的时候坑坑巴巴连懵带猜的看过html，看着文章一步一步创建了一个属于自己的小东西。</p>
+
+<p>现在想来他那个所谓的几秒钟搭建好自己的博客也就不过如此，不过是一些写好的前端文件，让其他人拿过来再自学前端知识去修修改改罢了。</p>
+
+<p><a href="https://developer.mozilla.org/zh-CN/">MDN Web Docs (mozilla.org)</a> 是个学习前端web等很好的世界性网站！当然国内更全栈的网站入门还有<a href="https://www.runoob.com/">菜鸟教程</a></p>
+
+<p>完了，越走越远了。。已经开始安装Ruby等等一系列东西了，折腾不止啊！</p>
+
+<p>未来计划：</p>
+
+<ul class="task-list">
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />html基础</p>
+  </li>
+  <li class="task-list-item">
+    <p><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Jekyll继续学习</p>
+  </li>
+</ul>
+:ET
