@@ -14,11 +14,11 @@ This progress of creating my blog, is based on the [guide](http://jmcglone.com/g
 
 [MDN Web Docs (mozilla.org)](https://developer.mozilla.org/zh-CN/) 是个学习前端web等很好的世界性网站！当然国内更全栈的网站入门还有[菜鸟教程](https://www.runoob.com/)
 
-完了，越走越远了。。已经开始安装Ruby等等一系列东西了，折腾不止啊！
+~~完了，越走越远了。。已经开始安装Ruby等等一系列东西了，折腾不止啊！2022.04.12在本地安装了Ruby，Rubygems等等一系列东西之后终于成功！这一趟下来最重要的收获就是一定要学会看他报错的输出日志并且google寻找答案，寻找答案的同时也要发散思维自己创造答案，万一就成功了呢。~~
 
-2022.04.12在本地安装了Ruby，Rubygems等等一系列东西之后终于成功！这一趟下来最重要的收获就是一定要学会看他报错的输出日志并且google寻找答案，寻找答案的同时也要发散思维自己创造答案，万一就成功了呢。
+安装bundle以及进行`bundle add webrick`时一直报错，自己创新尝试`gem install webrick`之后得到解决，可以完美运行`jekyll serve`，并在本地网页查看博客！至此，基本的本地搭建和查看完成。
 
-安装bundle以及进行`bundle add webrick`时一直报错，自己创新尝试`gem install webrick`之后得到解决，可以完美运行`jeklly serve`，并在本地网页查看博客！至此，基本的本地搭建和查看完成。
+暂时还是需要一边用CMD进行Jekyll命令，一边用mingw64进行git操作。 
 
 未来计划：
 
